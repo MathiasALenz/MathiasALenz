@@ -1,4 +1,4 @@
-# Let's code somthing 🌱
+# Let's code 🌱
 ### Let's see what we can do in 5 years.
 
 
