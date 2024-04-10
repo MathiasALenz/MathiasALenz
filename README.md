@@ -1,5 +1,5 @@
 # Let's code 🌱
-#### Let's see what we can do.
+#### And see what we can do.
 
 
 
