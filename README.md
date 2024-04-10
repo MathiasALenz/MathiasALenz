@@ -1,5 +1,5 @@
-### '-'
-
+#Let's code somthing 🌱
+Let's see what we can do in 5 years.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasalenz&theme=react)](https://github.com/mathiasalenz/github-readme-stats)
 
@@ -7,8 +7,10 @@
 <!--
 **MathiasALenz/MathiasALenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![snake gif](https://github.com/MathiasALenz/MathiasALenz/blob/output/github-contribution-grid-snake-dark.svg)
 
+Here are some ideas to get you started:
+- ✉️ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
