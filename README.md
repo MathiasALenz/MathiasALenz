@@ -5,6 +5,7 @@
 <a href="https://visualstudio.microsoft.com/downloads/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
+<a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="python" width="40" height="40"/> </a>
 <!--
 **MathiasALenz/MathiasALenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasalenz&theme=react)](https://github.com/mathiasalenz/github-readme-stats)
